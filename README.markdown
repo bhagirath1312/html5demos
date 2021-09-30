@@ -15,7 +15,7 @@ A collection of HTML5 experiments I've created, now open source and on GitHub, s
 
 If the demo should take the default style - currently grey and dull - but it keeps the focus on the code ;) then follow these instructions. Otherwise, simply create the file in the root directory calling it [yourdemo].html and include it in the index.php.
 
-Instructions to creating a new demo:
+Instructions to creating a new demo:-
 
 * Create a .html in the /demos directory
 * Use the following template (also a sample in /demos/template.html):
